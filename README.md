@@ -64,5 +64,5 @@ Caso tenha alguma dúvida durante esse processo, crie uma issue nesse repositór
 - Foto de capa por [Hello Lightbulb](https://unsplash.com/@hellolightbulb) no Unsplash
 
 <p align="center">
-   Made with :purple-heart:
+   Made with :purple_heart:
 </p>
