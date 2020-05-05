@@ -19,29 +19,29 @@ Para poder aproveitar os conteúdos do repositório da melhor forma, você irá 
 ## Tópicos
 
 1. **Introdução**
-   1.1. [Motivação](./topics/1-Introducao/Introducao.md)
+   - [Motivação](./topics/1-Introducao/Introducao.md)
 2. **Ferramentas**
-   2.1. [Unity](./topics/2-Ferramentas/Unity.md)
-   2.1. [Ambiente de desenvolvimento](./topics/2-Ferramentas/Editor.md)
+   - [Unity](./topics/2-Ferramentas/Unity.md)
+   - [Ambiente de desenvolvimento](./topics/2-Ferramentas/Editor.md)
 3. **Unity - Configuração do Ambiente**
-   3.1. [Unity Hub](./topics/3-Ambiente/UnityHub.md)
-   3.2. [Visual Studio](./topics/3-Ambiente/VisualStudio.md)
-   3.3. [Unity Editor](./topics/3-Ambiente/UnityEditor.md)
+   - [Unity Hub](./topics/3-Ambiente/UnityHub.md)
+   - [Visual Studio](./topics/3-Ambiente/VisualStudio.md)
+   - [Unity Editor](./topics/3-Ambiente/UnityEditor.md)
 4. **Unity - Conceitos Básicos**
-   4.1. [Conhecendo o Editor]()
-   4.2. [Objetos]()
-   4.3. [Scripts]()
-   4.4. [Console]()
+   - [Conhecendo o Editor]()
+   - [Objetos]()
+   - [Scripts]()
+   - [Console]()
 5. **Unity - Componentes**
-   5.1. [GameObject]()
-   5.2. [Camera]()  
-   5.3. [Rigidbody]()
-   5.4. [Collider]()
-   5.5. [Canvas]()
-   5.6. [Physics]()
+   - [GameObject]()
+   - [Camera]()
+   - [Rigidbody]()
+   - [Collider]()
+   - [Canvas]()
+   - [Physics]()
 6. **Visual Studio - Conceitos Básicos**
-   6.1. [Conhecendo o Editor]()
-   6.2. [Debug]()
+   - [Conhecendo o Editor]()
+   - [Debug]()
 
 ## Como contribuir
 
