@@ -44,3 +44,5 @@ Podemos mecher no seguinte:
 - Altura aonde o filtro fará efeito.
 - Relação entre o mínimo e o máximo do impacto total do filtro ou textura, depende de sua aplicação.
 - Ângulo aonde o filtro irá fazer efeito.
+
+[Próxima Seção](./4-Texturas.md)
