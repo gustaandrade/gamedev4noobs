@@ -36,6 +36,10 @@ Podemos mecher no seguinte:
 
 * Filtros podem possuir opções específicas, sendo os filtros mostrados não possuem uma regra geral.
 
+* Leia as descrições dos filtros para melhor aproveitamento da ferramenta.
+
+* Podemos usar os filtros de formas específicas usando as **áreas**, e iremos explicar como fazer isso.
+
 ## Distribuição dos Filtros
 
 - Operações básicas.
