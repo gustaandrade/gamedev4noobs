@@ -1,0 +1,1 @@
+- Colocar imagems em todo lugar que tiver *
