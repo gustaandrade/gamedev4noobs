@@ -16,7 +16,9 @@ Com ele conseguimos fazer mundos para nossos jogos de maneira profissional e rá
 
 Vamos demonstrar alguns comandos básicos da interface do WC2:
 
-* Menu da Esquerda
+<h1 align="center">
+  <img src="../../assets/world-creator/bar.png" alt="" width="50%">
+</h1>
 
 Neste menu podemos ter acesso a visualização do mapa de forma facilitada.
 
@@ -36,19 +38,25 @@ Neste menu podemos ter acesso a visualização do mapa de forma facilitada.
 14. Mostrar Detalhes;
 15. Mostrar Tirar uma Foto do Mundo.
 
-* Mapa Inicial
-
 O mapa inicial do WC2 vem com o padrão 2048x2048 com uma seed de heightmap.
 
-* Menu da Direita
+<h1 align="center">
+  <img src="../../assets/world-creator/map.png" alt="" width="60%">
+</h1>
 
 O menu da direita é onde vai estar tudo o que iremos fazer no mapa, como configurações de renderização do mundo, adicionar filtros, texturas, áreas e adicionar geração procedural de objetos e simulação de mundo.
 
+<h1 align="center">
+  <img src="../../assets/world-creator/map.png" alt="" width="60%">
+</h1>
+
 ## Base
 
-* Base
-
 Na tela inicial do menu da direita, teremos o controle de forma geral de nosso landscape, assim conseguindo trabalhar em todos os aspectos gerais do mapa.
+
+<h1 align="center">
+  <img src="../../assets/world-creator/base.png" alt="" width="60%">
+</h1>
 
 ### Gerador
 
@@ -76,7 +84,9 @@ Aqui é a onde iremos definir a difusão do que estamos acrescentando, sendo div
 
 ## Opções
 
-* Opções
+<h1 align="center">
+  <img src="../../assets/world-creator/options.jpg" alt="" width="60%">
+</h1>
 
 ### Propriedades da Aplicação
 

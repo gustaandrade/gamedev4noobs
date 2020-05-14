@@ -2,7 +2,11 @@
 
 O WC2 possui um sistema de **filtros**, que nos possibilita aplicá-los em nosso mapa, **modelando** da forma que preferirmos.
 
-O WC2 vem com uma coleção de mapas:
+O WC2 vem com uma coleção de filtros:
+
+<h1 align="center">
+  <img src="../../assets/world-creator/sections.png" alt="" width="80%">
+</h1>
 
 * Mapa
 
@@ -14,15 +18,21 @@ O WC2 vem com uma coleção de mapas:
 
 * Posições de filtros contam, ou seja, os filtros podem se sobrepor dependendo da forma que foi inserido na Layer.
 
-Vamos adicioanr o filtro **Erosion** que está na própria seção de **Erosion**
+* Layers(camadas) é uma forma de dividir o que formos adicionar, assim mantendo uma organização.
 
-* Erosion
+Primeiramente, vamos criar uma **Layer** clicando em **Add Layer**, apos isso clicamos em **Filters: Add**, agora vamos adicionar o filtro **Erosion** que está na própria seção de **Erosion**
+
+<h1 align="center">
+  <img src="../../assets/world-creator/filters.png" alt="" width="80%">
+</h1>
 
 ## Propriedade dos Filtros
 
 Podemos observar o seguinte:
 
-* Outra foto dos filtros
+<h1 align="center">
+  <img src="../../assets/world-creator/filter.jpg" alt="" width="50%">
+</h1>
 
 Podemos mecher no seguinte:
 
