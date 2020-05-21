@@ -1,0 +1,4 @@
+- Explicar melhor a parte de precisão
+- Explicar Depth
+- Colocar artigo sobre multiframe
+- Achar cheatsheet de atalhos do WC2
